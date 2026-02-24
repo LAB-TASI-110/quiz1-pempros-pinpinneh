@@ -1,0 +1,16 @@
+
+"jadi saya ingin membuat program tapi saya ingin inputan yang akan saya msukkan itu seuai dengan n yang akan saya ymasukkan Jumlah total data (N)." 
+
+"using namespace std; maksudnya ini dalam kode mu apa?" 
+
+"jika di bahasa c?" 
+
+"# Soal Pemrograman - Penjumlahan Nilai Siswa..." 
+
+"[NO CONTENT FOUND]berikut polanya" 
+
+"coba analisisi gambar ini Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan" 
+
+"hapus komentar di kodingannya" 
+
+"coba buat outpu nya itu deret angkanya saja jangan hasil" 

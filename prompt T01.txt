@@ -1,0 +1,6 @@
+dari soal berikut kita di minta untuk membuat program seperti apa
+Membaca Input Dinamis (Looping) 
+coba buatkan codingann programnya di bagian ini
+apa maksud dari nsg ap yang di input
+lanjutkan tahapan program selanjutnya 
+dengan kode tersebut bagai mana outputya nanti

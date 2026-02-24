@@ -1,0 +1,9 @@
+Sistem Prediksi Waktu: "Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.yang akan memprediksi perkilo pakaian itu akan berapa lama waktu pengerjaannya 45 menit jadi di jika kita menginput berapa kg pakaiannya akan di kalikan dengan 45 menit dan setelah itu maka coustumer di surruh untuk menunggu selama waktu pengerjaan perkilonya"
+
+Bahasa Pemrograman: "dalam bahasa c"
+
+Fungsi Kode: "[Mengunggah gambar potongan kode waktu] bagian ini berfungsi untuk aapa????"
+
+Input Desimal: "[Mengunggah gambar hasil eksekusi] bagaimana jika kau ingin membuat berat yang akan di masukkan itu berkoma"
+
+Instruksi Tambahan: "bagai mana jika aku ingin emnambahkan kata 'contoh memasukkan berat 4.75 gunakan . sebagai koma'"
